@@ -9,7 +9,7 @@ Dedicated data enthusiast with a proven track record in Machine Learning and App
 
 ## Experience:🔭
 
-## Data Analyst III | ZoomInfo
+### Data Analyst III | ZoomInfo
 January 2023 - Present (8 months) | Chennai, Tamil Nadu, India
 
 Spearheaded automation initiatives using Python, streamlining operational tasks and enhancing efficiency.
@@ -17,7 +17,7 @@ Leveraged NLP techniques to deliver impactful customer engagement insights, cont
 Employed Databricks and Apache Spark to efficiently process and distribute data into Snowflake.
 Crafted insightful analyses using Tableau, aiding strategic decision-making.
 
-## Business Data Analyst | Skill-Lync
+### Business Data Analyst | Skill-Lync
 November 2022 - January 2023 (3 months) | Chennai, Tamil Nadu, India
 
 Drove business process automation through Python, optimizing operations and increasing productivity.
@@ -25,7 +25,7 @@ Engineered dynamic dashboards in PowerBI, empowering post-sales, collections, an
 Managed ad-hoc data queries efficiently, supporting various teams with timely insights.
 Collaborated with Sales Ops and CRM teams, delivering data-driven solutions through automation.
 
-## Data Analyst | Cloud Mentor
+### Data Analyst | Cloud Mentor
 December 2020 - October 2022 (1 year 11 months) | Jaipur, Rajasthan, India
 
 Orchestrated seamless data migration using SQL and Python, ensuring data integrity and accuracy.
@@ -34,14 +34,14 @@ Skillfully employed tools like rclone and AWS for efficient data movement.
 Contributed significantly to personal and professional growth within the organization.
 
 
-## Business Analyst Intern | DrinkPrime
+### Business Analyst Intern | DrinkPrime
 November 2020 - December 2020 (2 months) | Bengaluru, Karnataka, India
 
 Innovatively tackled complex data challenges across multiple teams, driving actionable insights.
 Developed data-driven dashboards and presented solutions to management, enhancing decision-making.
 
 
-## ML Data Associate I | Amazon
+### ML Data Associate I | Amazon
 May 2018 - March 2020 (1 year 11 months) | Chennai, Tamil Nadu, India
 
 Analyzed and cleansed data for Data Scientists, facilitating accurate modeling and analysis.
