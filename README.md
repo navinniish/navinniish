@@ -47,6 +47,10 @@ May 2018 - March 2020 (1 year 11 months) | Chennai, Tamil Nadu, India
 Analyzed and cleansed data for Data Scientists, facilitating accurate modeling and analysis.
 Played a pivotal role in data labeling for sentiment analysis, contributing to machine learning projects.
 
+
+## What am doing currently
+
+
 - 🔭 I’m currently working on 100 days of code and learning how to code and teaching how to write a code
 - 🌱 I’m currently learning pyspark from Raja Data Engineering
 - 💬 Ask me about how I code !!! I will tell you how
