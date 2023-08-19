@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my profile !! Read my Resume and Learn what I'm doing now
 
 ## 📫
 ### Passionate Data Analyst | Machine Learning Enthusiast | Business Analytics MBA Candidate
