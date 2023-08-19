@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Headline:📫
-Passionate Data Analyst | Machine Learning Enthusiast | Business Analytics MBA Candidate
+## 📫
+### Passionate Data Analyst | Machine Learning Enthusiast | Business Analytics MBA Candidate
 
 ## Summary:💬
 Dedicated data enthusiast with a proven track record in Machine Learning and Applied Science, complemented by 2 years at Amazon and 7 months as an Analytics Consultant. With an additional 2 years as a skilled Data Analyst, I thrive on making data-driven decisions backed by robust statistical inferences. Proficient in transforming complex data sets into actionable insights, I specialize in visualizing data and crafting informative dashboards using tools like Tableau and PowerBI. Currently excelling as a Data Analyst III at ZoomInfo, I am also pursuing an MBA in Business Analytics at BITS, reflecting my commitment to continuous growth. When I'm not immersed in data, you'll find me playing cricket or enjoying music.
